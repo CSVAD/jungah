@@ -1,0 +1,5 @@
+## Reflection on 10 PRINT reading.  
+
+Write **one to two paragraphs** about your reactions and thoughts to the weekly reading. In what ways did you agree or dissagree with the points raised by the author? What associations did it raise for you? How did it align with or diverge from your personal experience? Feel free to include [links](http://formandcode.com/) to other relevant readings, videos, or works in your reflection.
+
+I remember myself trying to find a pattern repeat on the wallpaper. I stil automatically do this whenever I see patterns. This reading made me think of why they use patterns in wallpaper and weaving. As mentioned in Klee's Pedagogical Sketchbook, the nature of vertical structure as the repetitive accumulation of like units can be explained as "purely repetitive and therefore structural." I never thought about the fact that wallpapers or needlework contain rhythms, because they seem like static objects. As I read this chapter from 10 PRINT, I realize that patterns can create dynamics to the objects which seem quiet and static. And creating certain patterns repeatedly is the domain where a computer can surpass human beings.     
