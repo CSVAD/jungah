@@ -1,0 +1,5 @@
+## Reflection on Design Galleries.   
+
+Write **one to two paragraphs** about your reactions and thoughts to the weekly reading. In what ways did you agree or dissagree with the points raised by the author? What associations did it raise for you? How did it align with or diverge from your personal experience? Feel free to include [links](http://formandcode.com/) to other relevant readings, videos, or works in your reflection.
+
+I agree that computer assisting users with selecting parameters in computer graphics and animations can be very helpful. Many times choosing the right parameters influences the results and it usually takes me long time to find input parameters that yield desirable output values. In this paper, they used the dispersion method, which is finding a set of input vectors that map to a well-distributed set of output vectors, and the arrangement method, which is organizing the resulting graphics for easy and intuitive browsing by the user. Since they provide the end user with the arrangement of final graphics in a gallery, it reduces time and complexity for users to select appealing graphics.    
