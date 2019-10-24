@@ -1,0 +1,3 @@
+## Description about week4 project 
+
+I wanted to create bubble rising images and have modified gaussian_particle.pde to implement this. Particles get largers instead of diminishing. In addition, I have added the gravity parameter that acclerates velocity in y direction. To change shapes, users can click either 'ELLIPSE' button or 'RECT' button. Color rgb values are randomly chosen between 100 and 255 before creating generating seedsystems.   
