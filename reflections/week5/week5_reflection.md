@@ -1,0 +1,5 @@
+## Reflection on Bret Victor's essay and talk 
+
+From the 'Stop Drawing Dead Fish', I've learned that when making a tool for artists, I have to think in the aritsts' perspective. I have always thought that artists should learn coding as well in order to fully understand the mechanism and utilize the tool. However, this video has shifted my perspective and I would like to focus more on how I can make tools visually understandable from now on. In addition, how he concluded the talk about relationship between geometry and algebra was very interesting. I realized that many times, I had lack of this connection and thought of them separately. If I consider this inseparable relationship, I think I would better make use of the medium that I am using and build a satisfactory tool for artists, not just for myself. 
+
+As he mentioned in both his essay and talk, there are some dissatisfactions exist when we are using dynamic mediums for static purpose. I realized that the way he thinks of a drawing tool would be a real merge of art and technology, rather than just putting things toegether.     
