@@ -1,0 +1,3 @@
+## README for DrawingTool  
+
+For this assignment, I focused on creating patterns with strokes. This tool has a dropdown menu that allows users to choose patterns: ellipse, rectangle, triangle, ellipse inside ellipse, bubble, ellipse and rectangle, or check. I think using a computer is far more efficient when generating repeating patterns. This tool will allow users to do a tedious job of making patterns easier and more enjoyable.        
