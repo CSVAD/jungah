@@ -3,14 +3,6 @@
  * Added general color picker from online to pick initial value (upper left corner)  
 */ 
 
-int segs = 12;
-int steps = 6;
-float rotAdjust = radians(360.0/segs/2.0);
-float radius = 95.0;
-float segWidth = radius/steps;
-float interval = TWO_PI/segs;
-int SHADE = 0;
-int TINT = 1;
 
 int temp;
 int wd, ht; 
@@ -37,8 +29,9 @@ ControlP5 cp5;
 void setup() {
 
   size(1056, 816);
+  
 
-  frameRate(10); 
+  frameRate(20); 
 
   cp5 = new ControlP5(this);
   drawingManager = new DrawingManager(this);
@@ -71,21 +64,6 @@ void setup() {
 
   cp5.setColorValueLabel(color(255));
 
-  
-
-  /*cp5.addDropdownList("drop")
-
-     .setBackgroundColor(color(190))
-
-     .setSize(110, 100) 
-
-     .setPosition(50, 30)
-
-     .setWidth(200)
-
-     .addItems(drops)
-
-     ;*/
 
   
 
@@ -345,7 +323,7 @@ void mouseDragged(){
    ArrayList<DPoint> savedVerticies = new ArrayList<DPoint>();
    for(int i=0;i<shape.vertices.size();i+=1){
        savedVerticies.add(shape.vertices.get(i)); 
-  }
+   }
   
    drawingManager.stroke(0,0,0);
    
@@ -362,14 +340,14 @@ void variableEllipse(int x, int y, int px, int py) {
   int dist_x = x - px; 
   int dist_y = y - px; 
   
-  float new_x = speed*wd * dist_x/width;  
-  float new_y = speed*ht * dist_y/height; 
+  float new_x =  speed * wd * dist_x/width;  
+  float new_y =  speed * ht * dist_y/height; 
   
   float update_x; 
   float update_y; 
   
- update_x = mousepos_x + new_x; 
- update_y = mousepos_y + new_y;
+  update_x = (mousepos_x + new_x); 
+  update_y = (mousepos_y + new_y);
     
     if ((update_x) < 0.0){
       update_x = 0.0;  
@@ -397,3 +375,12 @@ void variableEllipse(int x, int y, int px, int py) {
   drawingManager.fill(R, G, B);
   drawingManager.ellipse(x,y,20,20);
  }
+ 
+int sgn(float f) {
+  if (f > 0) 
+    return 1;
+  else if (f <= 0) 
+    return -1;
+  return 1; 
+  //return 0;
+} 
