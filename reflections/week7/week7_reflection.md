@@ -1,0 +1,7 @@
+## Reflection on reading for week 7 
+
+I am very surprised how Resnick could foresee the importance of computer programming for kids and started to develop a programming language for kids that opened up a new environment. About 14 years have passed since the paper is written and now many parents put effort to let their kids learn programming. Computational thinking has become a must rather than a narrow, technical activity, especially in this era of artificial intelligence.
+
+What I have observed commonly from three reading materials is that we have to think a lot in the user's perspective when designing a system and depending on the targer user, the design and function of the system could change in a whole different direction. In this regard, I've noticed that Dynamic Brushes (DB) gained motivation from artists and had very specific design goals which were derived from interviews with the artists.  
+
+I was also surprised by the result of paintings that Tritt had created and thought that his response was interesting. Although he has no prior programming experience, he created portraits using DB well and gained insights while working with DB. His expresion that he felt his "brain light up" represents the idea of design for designers, which was first principle from Resnick's paper. It gave me impression that he was learning through designing.   
