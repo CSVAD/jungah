@@ -1,0 +1,3 @@
+## Reflection on creating a Processing library  
+
+The goal of the library was to create several types of bursting effects. This library is supposed to help people create animations effects starting from the locations they want. People can do this by calling particleManager library's burst(), burst_space(), or burst_gaussian() functions. They can also change the particle shapes by trying different values for the last arguement of these functions. I used the term burst and particle for class names and the library name is chosen as particleBurstLibrary. Althought they are the terminologies originally I got from the fireworks source code that I started with, I decided to keep it since I continued to develop the source code in the same theme.        
